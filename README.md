@@ -1,43 +1,38 @@
-# 📊 Flipkart Sales Analysis Dashboard (Power BI)
+# 📊 Power BI Projects Portfolio
 
-## 📌 Project Overview  
-This project is a Power BI dashboard built to analyze Flipkart sales data and generate meaningful business insights.  
-The dashboard helps in understanding sales performance, product trends, and regional distribution.
+Welcome to my Power BI Projects repository!  
+This repository showcases my work on data analysis and dashboard development using Power BI.
 
-## 🎯 Objective  
-- Analyze overall sales performance  
-- Identify top-selling products and categories  
-- Understand customer buying trends  
-- Track sales growth over time  
+The goal of these projects is to transform raw data into meaningful insights that support data-driven decision-making.
+
 ---
-## 📊 Dashboard Features  
-- KPI Cards: Total Sales, Profit, Orders  
-- Category-wise Sales Analysis  
-- Region-wise Performance  
-- Monthly Sales Trend  
-- Top Products Identification  
-- Interactive Filters (Slicers)  
+
+## 📌 Project Overview
+This repository contains multiple Power BI dashboards built on different datasets to analyze business performance, trends, and key metrics.
+
+Each project focuses on solving real-world business problems through interactive and insightful visualizations.
+
 ---
-## 🛠️ Tools & Technologies Used  
+
+## 🛠️ Tools & Technologies Used
 - Power BI  
 - Power Query (Data Cleaning & Transformation)  
----
-
-## 📈 Key Insights  
-- High-performing categories contribute most of the revenue  
-- Sales vary across months showing seasonal trends  
-- Certain regions generate higher sales  
-- Few products contribute major portion of total sales  
-
----
-## 🚀 Skills Demonstrated  
-- Data Cleaning & Transformation  
+- DAX (Data Analysis Expressions)  
 - Data Modeling  
-- Data Visualization  
-- Business Insight Generation  
 
 ---
-## ⭐ Conclusion  
-This project shows how sales data can be transformed into actionable insights using Power BI.
+
+## 📊 Key Features
+- Interactive dashboards with slicers and filters  
+- KPI cards for performance tracking  
+- Trend analysis using charts and graphs  
+- Data-driven insights for better decision making  
 
 ---
+
+## 🚀 Skills Demonstrated
+- Data Cleaning and Preparation  
+- Data Modeling and Relationships  
+- DAX (Measures and Calculations)  
+- Data Visualization and Dashboard Design  
+- Analytical Thinking and Problem Solving 
